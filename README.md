@@ -2,3 +2,6 @@
 
 - ALS
 - RBM
+- MF
+- NCF
+- Association Rule
